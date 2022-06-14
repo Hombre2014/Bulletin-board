@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The app is build up to and including Chapter 4. Chapter 5 Performance and onward is not implemented. For more details view: https://www.youtube.com/watch?v=NqzdVN2tyvQ (2:13:05 time).
+
 ## Available Scripts
 
 In the project directory, you can run:
